@@ -1,4 +1,4 @@
-# Operating Systems Lab File Codes - 5th Sem - Kunsh Sabharwal
+# Operating Systems Practical File Codes - 5th Sem - Kunsh Sabharwal
 
 ## 06/08/25
 
