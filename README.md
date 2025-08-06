@@ -1,0 +1,5 @@
+# Operating Systems Lab File Codes - 5th Sem - Kunsh Sabharwal
+
+## 06/08/25
+
+- Write a C Program to implement First Come, First Serve (FCFS) scheduling algorithm.
