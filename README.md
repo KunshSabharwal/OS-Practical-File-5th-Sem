@@ -2,4 +2,15 @@
 
 ## Lab 1 - 06/08/25
 
-- Write a C Program to implement First Come, First Serve (FCFS) scheduling algorithm.
+- Exp 1 - Installation and update of Ubuntu and Linux. Running first C program in Linux NANO text editor.
+- Exp 2 - Basic Commands in Linux
+
+## Lab 2 - 13/08/25
+
+- Exp 3 - Shell Script Based programs - Swap/Directory exists/Prime Number Check/Greet User
+
+## Lab 3 - 20/08/25
+
+- Exp 4 -Scheduling Algorithms implementation - FCFS/RR/SJF/SJRF
+
+## Lab 4 - 27/08/25
