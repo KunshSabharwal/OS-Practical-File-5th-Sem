@@ -1,5 +1,6 @@
 #include <stdio.h>
 
+// updated code for FCFS scheduling algorithm - EXP 4
 void findWaitingTime(int processes[], int n, int bt[], int wt[])
 {
     wt[0] = 0;
