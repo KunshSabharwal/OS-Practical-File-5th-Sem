@@ -11,6 +11,12 @@
 
 ## Lab 3 - 20/08/25
 
-- Exp 4 -Scheduling Algorithms implementation - FCFS/RR/SJF/SJRF
+- Exp 4 - Scheduling Algorithms implementation - FCFS/RR/SJF/SJRF
 
 ## Lab 4 - 27/08/25
+
+- Exp 5 - Memory Allocation methods implementation - FirstFit/WorstFit/BestFit
+
+## Lab 5 - 27/08/25
+
+- Exp 6 - Implementation of Reader/Writer Problem using Semaphores
