@@ -4,6 +4,8 @@
 #define P 5
 #define R 3
 
+// updated and modified version
+
 bool isSafe(int processes[], int n, int avail[], int max[][R], int allot[][R])
 {
     int work[R];
