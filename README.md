@@ -20,3 +20,15 @@
 ## Lab 5 - 27/08/25
 
 - Exp 6 - Implementation of Reader/Writer Problem using Semaphores
+
+## Lab 6 - 3/09/25
+
+- Placement Practice
+
+## Lab 7 - 10/09/25
+
+- DSA Questions and practice of reader's writers problem
+
+## Lab 8 - 17/09/25
+
+- Exp 7 - Implementation of Banker's Algorithm for deadlock avoidance
