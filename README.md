@@ -32,3 +32,7 @@
 ## Lab 8 - 17/09/25
 
 - Exp 7 - Implementation of Banker's Algorithm for deadlock avoidance
+
+## Lab 9 - 8/10/25
+
+- Exp 8 - 11 (Done in Ubuntu and added to file)
